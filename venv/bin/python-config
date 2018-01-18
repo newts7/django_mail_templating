@@ -1,4 +1,4 @@
-#!/home/newts/Development/django_boilerplate/venv/bin/python
+#!/home/newts/Development/django_mail_templating/venv/bin/python
 
 import sys
 import getopt
